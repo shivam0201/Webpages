@@ -1,0 +1,10 @@
+*{
+	border:0;
+	padding:0;
+	background-image:url(../1.jpg);
+	background-size:cover;
+	background-position:center;
+}
+h1{
+	color:purple;
+}
